@@ -1,0 +1,15 @@
+name: Daily Profile Stats Check
+on:
+  schedule:
+    - cron:  '1 0 * * *'
+    - cron:  '5 0 * * *'
+jobs:
+  APICalls:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check Public Contributions
+      run: |
+        curl -X GET 'https://github-readme-stats-thachlp.vercel.app/api?username=thachlp&hide=stars&show_icons=true&rank_icon=github&show=reviews&custom_title=Public%20Contributions'    
+    - name: Check Most Used Languages
+      run: |     
+        curl -X GET 'https://github-readme-stats-thachlp.vercel.app/api/top-langs/?username=thachlp&layout=compact'
