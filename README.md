@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 It's **thachlp**!
+
+[![wakatime](https://wakatime.com/badge/user/018e4fa9-ee7b-47c9-8ffd-ce7a5736ae3a.svg)](https://wakatime.com/@018e4fa9-ee7b-47c9-8ffd-ce7a5736ae3a)
+
 <details><summary><b>Show GitHub stats:</b></summary>
 
 ![Stats](https://github-readme-stats-thachlp.vercel.app/api?username=thachlp&hide=stars&show_icons=true&rank_icon=github&custom_title=Public%20Contributions)
