@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 ### Hi there 👋
 It's **thachlp**!
 
-[![wakatime](https://wakatime.com/badge/user/018e4fa9-ee7b-47c9-8ffd-ce7a5736ae3a.svg)](https://wakatime.com/@018e4fa9-ee7b-47c9-8ffd-ce7a5736ae3a)
+I am tracking coding time using [![wakatime](https://wakatime.com/badge/user/018e4fa9-ee7b-47c9-8ffd-ce7a5736ae3a.svg)](https://wakatime.com/@018e4fa9-ee7b-47c9-8ffd-ce7a5736ae3a)
+
+I am an open-source enthusiast with some contributions to the [Lettuce](https://github.com/lettuce-io/lettuce-core), [Central Dogma](https://github.com/line/centraldogma), [Apache](https://github.com/apache), [Mockito](https://github.com/mockito/mockito)...
+Passionate about building scalable, efficient, and reliable software, I aim to make meaningful impacts in the developer community.
 
 <details><summary><b>Show GitHub stats:</b></summary>
 
