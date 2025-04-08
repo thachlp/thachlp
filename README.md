@@ -18,7 +18,7 @@ It's **thachlp**!
 
 I am tracking coding time using [![wakatime](https://wakatime.com/badge/user/018e4fa9-ee7b-47c9-8ffd-ce7a5736ae3a.svg)](https://wakatime.com/@018e4fa9-ee7b-47c9-8ffd-ce7a5736ae3a)
 
-I am an open-source enthusiast with some contributions to [lettuce](https://github.com/redis/lettuce), [centraldogma](https://github.com/line/centraldogma), [apache](https://github.com/apache), [mockito](https://github.com/mockito/mockito), [jedis](https://github.com/thachlp/jedis)...
+I am an open-source enthusiast with some contributions to [lettuce](https://github.com/redis/lettuce), [centraldogma](https://github.com/line/centraldogma), [mockito](https://github.com/mockito/mockito), [jedis](https://github.com/thachlp/jedis)...
 
 Passionate about building scalable, efficient, and reliable software, I aim to make meaningful impacts in the developer community.
 
