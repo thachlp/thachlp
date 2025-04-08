@@ -25,6 +25,5 @@ Passionate about building scalable, efficient, and reliable software, I aim to m
 <details><summary><b>Show GitHub stats:</b></summary>
 
 ![Stats](https://github-readme-stats-thachlp.vercel.app/api?username=thachlp&hide=stars&show_icons=true&rank_icon=github&custom_title=Public%20Contributions)
-![Top Lang's](https://github-readme-stats-thachlp.vercel.app/api/top-langs/?username=thachlp&layout=compact)
 
 </details>
