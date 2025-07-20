@@ -21,9 +21,8 @@ I am tracking coding time using [![wakatime](https://wakatime.com/badge/user/018
 I am an open-source enthusiast with some contributions to [lettuce](https://github.com/redis/lettuce), [centraldogma](https://github.com/line/centraldogma), [mockito](https://github.com/mockito/mockito), [jedis](https://github.com/thachlp/jedis)...
 
 Passionate about building scalable, efficient, and reliable software, I aim to make meaningful impacts in the developer community.
-
+<!--
 <details><summary><b>Show GitHub stats:</b></summary>
-
-![Stats](https://github-readme-stats-thachlp.vercel.app/api?username=thachlp&hide=stars&show_icons=true&rank_icon=github&custom_title=Public%20Contributions)
-
+ ![Stats](https://github-readme-stats-thachlp.vercel.app/api?username=thachlp&hide=stars&show_icons=true&rank_icon=github&custom_title=Public%20Contributions) 
 </details>
+-->
